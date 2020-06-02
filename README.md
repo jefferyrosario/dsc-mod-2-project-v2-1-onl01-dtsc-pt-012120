@@ -31,7 +31,7 @@ Yes. Some locations may negatively impact the sale price of a house. It may not 
 
 After data transformations, the result of the multivariate linear regression is detailed below:
 
-![alt text](https://github.com/jefferyrosario/dsc-mod-2-project-v2-1-onl01-dtsc-pt-012120/blob/master/ols_house_price.png)
+![alt text](https://github.com/jefferyrosario/dsc-mod-2-project-v2-1-onl01-dtsc-pt-012120/blob/master/ols_house_price.PNG)
 
 
 
