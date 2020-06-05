@@ -9,9 +9,13 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Contents
 
-kc_house_data.csv - King's County Housing Dataset 2014-2015
-column_names.md   - column names for the dataset
-student.ipynb     - jupyter notebook with code 
+kc_house_data.csv     - King's County Housing Dataset 2014-2015
+
+column_names.md       - Column names for the dataset
+
+student.ipynb         - Jupyter notebook with code 
+
+Module 2 Presentation - Presentation of the Data Analysis
 
 
 
